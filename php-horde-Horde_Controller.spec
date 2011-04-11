@@ -21,7 +21,7 @@ Requires:	php-horde-Horde_Injector < 2.0.0
 Requires:	php-horde-Horde_Log < 2.0.0
 Requires:	php-horde-Horde_Support < 2.0.0
 Requires:	php-horde-Horde_Util < 2.0.0
-Requires:	php-pear
+Requires:	php-pear >= 4:1.3.6-2
 Suggests:	php-mbstring
 Suggests:	php-zlib
 BuildArch:	noarch
