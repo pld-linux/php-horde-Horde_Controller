@@ -3,12 +3,12 @@
 %include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde Controller libraries
 Name:		php-horde-Horde_Controller
-Version:	1.0.1
+Version:	1.0.2
 Release:	1
 License:	BSD
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
-# Source0-md5:	c218513eca4f46943d54227cae30726a
+# Source0-md5:	2bf8496541063d1072e26d47212b747a
 URL:		https://github.com/horde/horde/tree/master/framework/Controller/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
