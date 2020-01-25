@@ -1,6 +1,5 @@
 %define		status		stable
 %define		pearname	Horde_Controller
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde Controller libraries
 Name:		php-horde-Horde_Controller
 Version:	1.0.2
